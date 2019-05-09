@@ -1,0 +1,20 @@
+2019-01-27 20:23:10 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2019-01-27 20:29:11 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2019-01-27 20:39:40 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2019-02-02 22:35:33 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2019-02-11 19:53:46 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2019-02-18 20:55:03 ERROR  : ERROR:  column "nnumero" does not exist
+LINE 1: select nnumero, valor, quant_parcela from parcela 
+               ^
+HINT:  Perhaps you meant to reference the column "parcela.numero".
+2019-03-09 21:54:28 ERROR  : ERROR:  relation "categoria_cod_categoria_seq" does not exist
